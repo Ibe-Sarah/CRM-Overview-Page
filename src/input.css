@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+    color: #091e42;
+}
+
+/*  */
+svg{
+    top: 60.5px !important;
+}
+@media (min-width:768px){
+    #search-navbar{
+        /* width: 40em !important; */
+    }
+}
